@@ -1,0 +1,111 @@
+<svg width="800" height="1000" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景 -->
+  <rect width="800" height="1000" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- 标题 -->
+  <text x="40" y="50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">练习记录页面 - 线框图</text>
+  
+  <!-- 页面头部 -->
+  <rect x="40" y="80" width="720" height="60" fill="white" stroke="#dee2e6" stroke-width="1" rx="8"/>
+  <rect x="60" y="95" width="80" height="30" fill="#e9ecef" stroke="#adb5bd" stroke-width="1" rx="4"/>
+  <text x="65" y="113" font-family="Arial, sans-serif" font-size="12" fill="#666">← 返回首页</text>
+  <text x="160" y="118" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">练习记录</text>
+  
+  <!-- 统计卡片区域 -->
+  <text x="40" y="180" font-family="Arial, sans-serif" font-size="14" fill="#666">统计信息</text>
+  
+  <!-- 统计卡片1 -->
+  <rect x="40" y="190" width="220" height="80" fill="white" stroke="#dee2e6" stroke-width="1" rx="8"/>
+  <circle cx="70" cy="220" r="15" fill="#e3f2fd" stroke="#2196f3" stroke-width="1"/>
+  <text x="65" y="225" font-family="Arial, sans-serif" font-size="12" fill="#2196f3">📅</text>
+  <text x="100" y="215" font-family="Arial, sans-serif" font-size="12" fill="#666">总练习次数</text>
+  <text x="100" y="235" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#333">4</text>
+  
+  <!-- 统计卡片2 -->
+  <rect x="280" y="190" width="220" height="80" fill="white" stroke="#dee2e6" stroke-width="1" rx="8"/>
+  <circle cx="310" cy="220" r="15" fill="#e8f5e8" stroke="#4caf50" stroke-width="1"/>
+  <text x="305" y="225" font-family="Arial, sans-serif" font-size="12" fill="#4caf50">✓</text>
+  <text x="340" y="215" font-family="Arial, sans-serif" font-size="12" fill="#666">已完成</text>
+  <text x="340" y="235" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#333">3</text>
+  
+  <!-- 统计卡片3 -->
+  <rect x="520" y="190" width="220" height="80" fill="white" stroke="#dee2e6" stroke-width="1" rx="8"/>
+  <circle cx="550" cy="220" r="15" fill="#f3e5f5" stroke="#9c27b0" stroke-width="1"/>
+  <text x="545" y="225" font-family="Arial, sans-serif" font-size="12" fill="#9c27b0">👁</text>
+  <text x="580" y="215" font-family="Arial, sans-serif" font-size="12" fill="#666">平均分数</text>
+  <text x="580" y="235" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#333">85</text>
+  
+  <!-- 历史记录标题 -->
+  <text x="40" y="320" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333">历史记录</text>
+  
+  <!-- 记录卡片1 -->
+  <rect x="40" y="340" width="720" height="120" fill="white" stroke="#dee2e6" stroke-width="1" rx="8"/>
+  <text x="60" y="365" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">📅 2024-01-15  🕐 14:30</text>
+  <rect x="250" y="350" width="60" height="20" fill="#d4edda" stroke="#c3e6cb" stroke-width="1" rx="10"/>
+  <text x="265" y="363" font-family="Arial, sans-serif" font-size="10" fill="#155724">已完成</text>
+  <rect x="320" y="350" width="60" height="20" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="10"/>
+  <text x="335" y="363" font-family="Arial, sans-serif" font-size="10" fill="#666">得分: 85</text>
+  
+  <text x="60" y="385" font-family="Arial, sans-serif" font-size="12" fill="#666">面试问题:</text>
+  <rect x="60" y="390" width="600" height="20" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="4"/>
+  <text x="70" y="403" font-family="Arial, sans-serif" font-size="11" fill="#333">1. 请介绍一下你自己</text>
+  <rect x="60" y="415" width="600" height="20" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="4"/>
+  <text x="70" y="428" font-family="Arial, sans-serif" font-size="11" fill="#333">2. 你的职业规划是什么？</text>
+  
+  <rect x="620" y="380" width="80" height="30" fill="white" stroke="#007bff" stroke-width="1" rx="4"/>
+  <text x="635" y="398" font-family="Arial, sans-serif" font-size="11" fill="#007bff">👁 查看详情</text>
+  
+  <!-- 记录卡片2 -->
+  <rect x="40" y="480" width="720" height="120" fill="white" stroke="#dee2e6" stroke-width="1" rx="8"/>
+  <text x="60" y="505" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">📅 2024-01-12  🕐 10:15</text>
+  <rect x="250" y="490" width="60" height="20" fill="#d4edda" stroke="#c3e6cb" stroke-width="1" rx="10"/>
+  <text x="265" y="503" font-family="Arial, sans-serif" font-size="10" fill="#155724">已完成</text>
+  <rect x="320" y="490" width="60" height="20" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="10"/>
+  <text x="335" y="503" font-family="Arial, sans-serif" font-size="10" fill="#666">得分: 78</text>
+  
+  <text x="60" y="525" font-family="Arial, sans-serif" font-size="12" fill="#666">面试问题:</text>
+  <rect x="60" y="530" width="600" height="20" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="4"/>
+  <text x="70" y="543" font-family="Arial, sans-serif" font-size="11" fill="#333">1. 描述一个你解决的技术难题</text>
+  <rect x="60" y="555" width="600" height="20" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="4"/>
+  <text x="70" y="568" font-family="Arial, sans-serif" font-size="11" fill="#333">2. 团队合作中遇到的挑战</text>
+  
+  <rect x="620" y="520" width="80" height="30" fill="white" stroke="#007bff" stroke-width="1" rx="4"/>
+  <text x="635" y="538" font-family="Arial, sans-serif" font-size="11" fill="#007bff">👁 查看详情</text>
+  
+  <!-- 记录卡片3 -->
+  <rect x="40" y="620" width="720" height="120" fill="white" stroke="#dee2e6" stroke-width="1" rx="8"/>
+  <text x="60" y="645" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">📅 2024-01-10  🕐 16:45</text>
+  <rect x="250" y="630" width="60" height="20" fill="#d4edda" stroke="#c3e6cb" stroke-width="1" rx="10"/>
+  <text x="265" y="643" font-family="Arial, sans-serif" font-size="10" fill="#155724">已完成</text>
+  <rect x="320" y="630" width="60" height="20" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="10"/>
+  <text x="335" y="643" font-family="Arial, sans-serif" font-size="10" fill="#666">得分: 92</text>
+  
+  <text x="60" y="665" font-family="Arial, sans-serif" font-size="12" fill="#666">面试问题:</text>
+  <rect x="60" y="670" width="600" height="20" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="4"/>
+  <text x="70" y="683" font-family="Arial, sans-serif" font-size="11" fill="#333">1. 你的优势和劣势是什么？</text>
+  <rect x="60" y="695" width="600" height="20" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="4"/>
+  <text x="70" y="708" font-family="Arial, sans-serif" font-size="11" fill="#333">2. 如何处理工作压力？</text>
+  
+  <rect x="620" y="660" width="80" height="30" fill="white" stroke="#007bff" stroke-width="1" rx="4"/>
+  <text x="635" y="678" font-family="Arial, sans-serif" font-size="11" fill="#007bff">👁 查看详情</text>
+  
+  <!-- 进行中的记录 -->
+  <rect x="40" y="760" width="720" height="120" fill="white" stroke="#dee2e6" stroke-width="1" rx="8"/>
+  <text x="60" y="785" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">📅 2024-01-08  🕐 09:20</text>
+  <rect x="250" y="770" width="60" height="20" fill="#fff3cd" stroke="#ffeaa7" stroke-width="1" rx="10"/>
+  <text x="265" y="783" font-family="Arial, sans-serif" font-size="10" fill="#856404">进行中</text>
+  
+  <text x="60" y="805" font-family="Arial, sans-serif" font-size="12" fill="#666">面试问题:</text>
+  <rect x="60" y="810" width="600" height="20" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1" rx="4"/>
+  <text x="70" y="823" font-family="Arial, sans-serif" font-size="11" fill="#333">1. 项目管理经验分享</text>
+  
+  <rect x="620" y="800" width="80" height="30" fill="white" stroke="#007bff" stroke-width="1" rx="4"/>
+  <text x="635" y="818" font-family="Arial, sans-serif" font-size="11" fill="#007bff">👁 查看详情</text>
+  
+  <!-- 设计说明 -->
+  <text x="40" y="920" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">设计说明:</text>
+  <text x="40" y="940" font-family="Arial, sans-serif" font-size="12" fill="#666">• 顶部统计卡片展示总体数据概览</text>
+  <text x="40" y="955" font-family="Arial, sans-serif" font-size="12" fill="#666">• 每条记录显示日期、时间、状态、分数</text>
+  <text x="40" y="970" font-family="Arial, sans-serif" font-size="12" fill="#666">• 面试问题预览（最多显示2个）</text>
+  <text x="40" y="985" font-family="Arial, sans-serif" font-size="12" fill="#666">• 查看详情按钮用于跳转到详细页面</text>
+</svg>

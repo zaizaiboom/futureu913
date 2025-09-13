@@ -1,0 +1,36 @@
+# Vercel ignore file
+# Exclude cache and build artifacts that are too large
+
+.next/cache/
+node_modules/
+.pnpm/
+.env.local
+.env.*.local
+*.log
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+
+# Large files that shouldn't be deployed
+*.zip
+*.tar.gz
+*.rar
+*.node
+
+# Exclude specific large dependencies
+node_modules/.pnpm/
+node_modules/@next/swc-*/
+
+# Build artifacts
+.next/
+dist/
+build/
